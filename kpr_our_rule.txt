@@ -21,6 +21,10 @@
 https://detail.tmall.com##.mui-mbarp-qrcode-tip
 ！驱动之家 首页广告
 https://news.mydrivers.com###dangbei_down > IMG
+https://news.mydrivers.com###aswift_1
+||https://googlesyndication.com^$third-party
+||https://tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
+||https://hm.baidu.com^$third-party
 !btbtt 首页广告
 http://*btbtt.*##.wrapper_bg_c.hidden-xs
 http://*btbtt.*###wrapper_right_bg
