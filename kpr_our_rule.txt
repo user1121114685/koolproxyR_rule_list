@@ -33,6 +33,13 @@ http://*btbtt.*###wrapper_left_bg
 http://*btbtt.*###wrapper2 > DIV.width:nth-child(2) > DIV.error
 ！ 爱奇艺广告
 @@@||https://cupid.iqiyi.com^
+！youtube 视频广告
+@@@||https://youtube.com/api/stats/playback?$image,object-subrequest
+@@@||https://doubleclick.net/instream/ad_status.js
+||https://youtube.com/*_204?$~xmlhttprequest
+||https://youtube.com/get_midroll_
+||https://youtube.com/ptracking?
+||https://google.com/pagead/
 ！ ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
@@ -995,3 +1002,4 @@ http://*btbtt.*###wrapper2 > DIV.width:nth-child(2) > DIV.error
 |http://*_index_banner$script
 |http://*_pop.js|$script,domain=~10086.cn|~granbluefantasy.jp
 |http://*_right_ad.$domain=~dzwww.com
+!-----------------------------------搬运完毕----------------------------------------------
