@@ -39,7 +39,6 @@ http://*btbtt.*###wrapper2 > DIV.width:nth-child(2) > DIV.error
 ||https://youtube.com/get_midroll_
 ||https://youtube.com/ptracking?
 ||https://google.com/pagead/
-https://youtube.com###masthead-ad
 ！天天美剧
 http://ttmeiju.me##DIV:nth-child(2) > P > A > IMG
 http://ttmeiju.me###footer > DIV:first-child > P > IMG
