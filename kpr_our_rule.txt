@@ -17,8 +17,6 @@
 @@@https://*.mp4.ts
 ||https://valipl.cp31.ott.cibntv.net
 ||https://bsv.atm.youku.com
-!天猫 右下角， 新人红包
-https://detail.tmall.com##.mui-mbarp-qrcode-tip
 ！驱动之家 首页广告
 https://news.mydrivers.com###dangbei_down > IMG
 https://news.mydrivers.com###aswift_1
