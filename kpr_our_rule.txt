@@ -3,7 +3,7 @@
 !  https 必须为域名，不能使用 * 不然会GG的。
 !  例如 ||users.51.la^$third-party 写成 ||http://users.51.la^$third-party 即可。只需要在
 !  "!" 为行注释符，注释行以该符号起始作为一行注释语义，用于规则描述
-!  "@@" 为白名单符，白名单具有最高优先级，放行过滤的网站，https 需要三个 @@@@ 例如:@@@||https://taobao.com
+!  "@@" 为白名单符，白名单具有最高优先级，放行过滤的网站，https 需要三个 @@@@ 例如:@@@@||https://taobao.com
 !  ------------------------------------------------------------------------------------------
 !  "*" 为字符通配符，能够匹配0长度或任意长度的字符串，该通配符不能与正则语法混用。
 !  "^" 为分隔符，可以是除了字母、数字或者 _ - . % 之外的任何字符。
@@ -12,12 +12,12 @@
 !  ------------------------------------------------------------------------------------------
 !  "|" 为管线符号，来表示地址的最前端或最末端
 !  "||" 为子域通配符，方便匹配主域名下的所有子域
-！ -------------------------------------------------------------------------------------------
-！优酷规则补充。
-@@@https://*.mp4.ts
+! -------------------------------------------------------------------------------------------
+!优酷规则补充。
+@@@@https://*.mp4.ts
 ||https://valipl.cp31.ott.cibntv.net
 ||https://bsv.atm.youku.com
-！驱动之家 首页广告
+!驱动之家 首页广告
 https://news.mydrivers.com###dangbei_down > IMG
 https://news.mydrivers.com###aswift_1
 ||https://googlesyndication.com^$third-party
@@ -28,19 +28,21 @@ http://*btbtt.*###wrapper_right_bg
 |http://*btbtt.*/view/image/QT_*
 http://*btbtt.*###wrapper_left_bg
 http://*btbtt.*###wrapper2 > DIV.width:nth-child(2) > DIV.error
-！ 爱奇艺广告
-@@@||https://cupid.iqiyi.com^
-！youtube 视频广告
-@@@||https://youtube.com/api/stats/playback?$image,object-subrequest
-@@@||https://doubleclick.net/instream/ad_status.js
+! 爱奇艺广告
+@@@@||https://cupid.iqiyi.com^
+! youtube 视频广告
+@@@@||https://youtube.com/api/stats/playback?$image,object-subrequest
+@@@@||https://doubleclick.net/instream/ad_status.js
 ||https://youtube.com/*_204?$~xmlhttprequest
 ||https://youtube.com/get_midroll_
 ||https://youtube.com/ptracking?
 ||https://google.com/pagead/
-！天天美剧
+!天天美剧
 http://ttmeiju.me##DIV:nth-child(2) > P > A > IMG
 http://ttmeiju.me###footer > DIV:first-child > P > IMG
-！ ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
+! 谷歌网盘放行
+@@@@|https://drive.google.com
+! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
 /http:\/\/m\.[^/]*\/\d{3,}\.html\?/
