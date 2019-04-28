@@ -57,6 +57,7 @@ http://ttmeiju.me###footer > DIV:first-child > P > IMG
 ! 直播吧
 ||https://pcgg.qiumibao.com/webAdvert.php$subdocument
 https://www.zhibo8.cc##.ad_box_250
+https://www.zhibo8.cc###popautoapp
 ! 5173首页补充去广告
 ||http://www.5173.com##body > .top
 ||http://www.5173.com##.gg_130 > .close_btn
@@ -64,12 +65,6 @@ https://www.zhibo8.cc##.ad_box_250
 ||http://www.5173.com##.gt-wrapimg-signin
 ! 巨超值 去下方弹框
 ||https://best.pconline.com.cn###JnoLoginFixedBottom
-! 腾讯体育去广告
-||https://sports.qq.com###ct-screen1 > .area.ad-banner
-||https://sports.qq.com##div.area.ad-banner:nth-of-type(3)
-||https://sports.qq.com##.mt25.site-scr.layout > .mt35.layout
-||https://sports.qq.com##.ad_width.fl
-https://www.zhibo8.cc###popautoapp
 ! 斗鱼去播放器解码弹窗广告
 https://www.douyu.com##.LotteryContainer
 https://www.douyu.com###__h5player
