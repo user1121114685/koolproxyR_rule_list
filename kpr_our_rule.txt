@@ -20,6 +20,20 @@
 !驱动之家 首页广告
 https://news.mydrivers.com###dangbei_down > IMG
 https://news.mydrivers.com###aswift_1
+!驱动之家 去广告补充（去空白页，页面更美观）
+||https://news.mydrivers.com##.baidu_left > .adsbygoogle
+||https://news.mydrivers.com##.news_right > div:nth-of-type(2)
+||https://news.mydrivers.com##div.side_ad_top.ad_warp:nth-of-type(8)
+||https://news.mydrivers.com###taobao_add > div:nth-of-type(3)
+||https://news.mydrivers.com##.news_left > div:nth-of-type(5)
+||https://news.mydrivers.com##.news_info > div:nth-of-type(5)
+||https://news.mydrivers.com##.news_info > div:nth-of-type(6)
+||https://news.mydrivers.com###taobao_add
+||http://www.mydrivers.com##.main_right > div:nth-of-type(3)
+||http://www.mydrivers.com##body > div:nth-of-type(11)
+||http://www.mydrivers.com##div:nth-of-type(13)
+||http://www.mydrivers.com##div:nth-of-type(17)
+||http://www.mydrivers.com##body > div:nth-of-type(7)
 ||https://googlesyndication.com^$third-party
 ||https://tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 !btbtt 首页广告
@@ -43,6 +57,11 @@ http://ttmeiju.me###footer > DIV:first-child > P > IMG
 ! 直播吧
 ||https://pcgg.qiumibao.com/webAdvert.php$subdocument
 https://www.zhibo8.cc##.ad_box_250
+! 腾讯体育去广告
+||https://sports.qq.com###ct-screen1 > .area.ad-banner
+||https://sports.qq.com##div.area.ad-banner:nth-of-type(3)
+||https://sports.qq.com##.mt25.site-scr.layout > .mt35.layout
+||https://sports.qq.com##.ad_width.fl
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
