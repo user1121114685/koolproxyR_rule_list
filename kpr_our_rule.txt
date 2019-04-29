@@ -68,9 +68,9 @@ https://www.zhibo8.cc###popautoapp
 ||https://best.pconline.com.cn###JnoLoginFixedBottom
 ! 斗鱼去播放器解码弹窗广告
 https://www.douyu.com##.LotteryContainer
-https://www.douyu.com###__h5player
 https://www.douyu.com##.UPlayerLotteryEnter-giftImg
 https://www.douyu.com##.is-baodeng.is-active.UPlayerLotteryEnter
+https://www.douyu.com##.PaladinWeek-toast
 ||https://www.douyu.com##.PaladinWeek-toast
 ! 游侠游戏论坛 去首页上方广告
 ||http://game.ali213.net###wp > div:nth-of-type(1)
