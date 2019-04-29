@@ -45,6 +45,7 @@ http://*btbtt.*###wrapper2 > DIV.width:nth-child(2) > DIV.error
 ||http://www.btbtt.co/view/image/QT_QT.jpg$image
 http://www.btbtt.co###wrapper_right_bg
 http://www.btbtt.co###wrapper_left_bg
+||http://www.btbtt.co##div.width:nth-of-type(2)
 ! 爱奇艺广告
 @@@@||https://cupid.iqiyi.com^
 !天天美剧
