@@ -67,9 +67,9 @@ https://www.zhibo8.cc###popautoapp
 ||https://best.pconline.com.cn###JnoLoginFixedBottom
 ! 斗鱼去播放器解码弹窗广告
 https://www.douyu.com##.LotteryContainer
-https://www.douyu.com###__h5player
 https://www.douyu.com##.UPlayerLotteryEnter-giftImg
 https://www.douyu.com##.is-baodeng.is-active.UPlayerLotteryEnter
+https://www.douyu.com##.PaladinWeek-toast
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
