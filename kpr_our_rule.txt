@@ -45,6 +45,7 @@ http://*btbtt.*###wrapper2 > DIV.width:nth-child(2) > DIV.error
 ||http://www.btbtt.co/view/image/QT_QT.jpg$image
 http://www.btbtt.co###wrapper_right_bg
 http://www.btbtt.co###wrapper_left_bg
+||http://www.btbtt.co##div.width:nth-of-type(2)
 ! 爱奇艺广告
 @@@@||https://cupid.iqiyi.com^
 !天天美剧
@@ -70,6 +71,7 @@ https://www.douyu.com##.LotteryContainer
 https://www.douyu.com###__h5player
 https://www.douyu.com##.UPlayerLotteryEnter-giftImg
 https://www.douyu.com##.is-baodeng.is-active.UPlayerLotteryEnter
+||https://www.douyu.com##.PaladinWeek-toast
 ! 游侠游戏论坛 去首页上方广告
 ||http://game.ali213.net###wp > div:nth-of-type(1)
 ||http://game.ali213.net###hd_ad
