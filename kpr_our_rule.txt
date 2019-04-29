@@ -71,6 +71,7 @@ https://www.douyu.com##.LotteryContainer
 https://www.douyu.com##.UPlayerLotteryEnter-giftImg
 https://www.douyu.com##.is-baodeng.is-active.UPlayerLotteryEnter
 https://www.douyu.com##.PaladinWeek-toast
+https://www.douyu.com##.closeBg-998534
 ||https://www.douyu.com##.PaladinWeek-toast
 ! 游侠游戏论坛 去首页上方广告
 ||http://game.ali213.net###wp > div:nth-of-type(1)
