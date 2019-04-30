@@ -15,8 +15,9 @@
 ! -------------------------------------------------------------------------------------------
 !优酷规则补充。
 @@@@https://*.mp4.ts
-||https://valipl.cp31.ott.cibntv.net
-||https://bsv.atm.youku.com
+@@@@|https://cmstool.youku.com
+@@@@|https://gm.mmstat.com
+||https://ykimg.com/material/*/ad/
 !驱动之家 首页广告
 https://news.mydrivers.com###dangbei_down > IMG
 https://news.mydrivers.com###aswift_1
