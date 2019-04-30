@@ -15,16 +15,26 @@
 ! -------------------------------------------------------------------------------------------
 !优酷规则补充。
 @@@@https://*.mp4.ts
-@@@@|https://cmstool.youku.com
 ||https://youku.com/cms/tool/pub/get_putdata.
 ||https://ykimg.com/material/*/ad/
 ||https://cp31.ott.cibntv.net/*.mp4$domain=youku.com,third-party
 ||http://cp31.ott.cibntv.net/*.mp4$domain=youku.com,third-party
 ||https://tip.soku.com/searches/soku/kubox/v4/sideads.json
-@@@@|https://log.mmstat.com
-@@@@|https://gm.mmstat.com
-@@@@|https://yt.mmstat.com
-@@@@|https://yt1.mmstat.com
+@@@@https://log.mmstat.com
+@@@@https://gm.mmstat.com
+@@@@https://yt.mmstat.com
+@@@@https://yt1.mmstat.com
+! 腾讯视频
+@@@@https://pingjs.qq.com/ping_video.js
+@@@@https://livep.l.qq.com
+@@@@https://vd.l.qq.com
+! 爱奇艺
+@@@@https://data.video.iqiyi.com
+@@@@https://tbcache.com
+@@@@https://71edge.com
+@@@@https://cupid.iqiyi.com
+! 56 tv
+@@http://s3.56img.com
 !驱动之家 首页广告
 https://news.mydrivers.com###dangbei_down > IMG
 https://news.mydrivers.com###aswift_1
