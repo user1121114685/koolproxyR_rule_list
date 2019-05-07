@@ -17,9 +17,9 @@
 @@@@https://*.mp4.ts
 ||https://youku.com/cms/tool/pub/get_putdata.
 ||https://ykimg.com/material/*/ad/
-||https://cp31.ott.cibntv.net/*.mp4$domain=youku.com,third-party
-||http://cp31.ott.cibntv.net/*.mp4$domain=youku.com,third-party
 ||https://tip.soku.com/searches/soku/kubox/v4/sideads.json
+@@@@https://ykimg.alicdn.com
+@@@@https://liangcang-material.alicdn.com
 @@@@https://log.mmstat.com
 @@@@https://gm.mmstat.com
 @@@@https://yt.mmstat.com
