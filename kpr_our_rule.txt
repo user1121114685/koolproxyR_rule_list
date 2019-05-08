@@ -15,6 +15,7 @@
 ! -------------------------------------------------------------------------------------------
 !优酷规则补充。
 @@@@https://*.mp4.ts
+@@||*.mp4.ts
 ||https://youku.com/cms/tool/pub/get_putdata.
 ||https://ykimg.com/material/*/ad/
 ||https://tip.soku.com/searches/soku/kubox/v4/sideads.json
@@ -25,6 +26,10 @@
 @@@@https://gm.mmstat.com
 @@@@https://yt.mmstat.com
 @@@@https://yt1.mmstat.com
+@@||youku.com/cms/player/userinfo/
+@@||mmstat.com/$script,image,domain=v.youku.com|tudou.com
+@@||youku.com/cms/playlog/get?
+||atm.youku.com^$domain=~v.youku.com
 ! 腾讯视频
 @@@@https://pingjs.qq.com/ping_video.js
 @@@@https://livep.l.qq.com
