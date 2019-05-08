@@ -101,6 +101,8 @@ https://www.douyu.com##.closeBg-998534
 |https://www.youtube.com/youtubei/v1/log_event
 |https://googleads.g.doubleclick.net
 ||https://youtube.com/get_midroll_
+|https://m.youtube.com/youtubei/v1/log_event
+|https://googleads.g.doubleclick.net/pagead/id
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
