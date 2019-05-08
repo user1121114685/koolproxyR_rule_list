@@ -30,6 +30,8 @@
 @@||mmstat.com/$script,image,domain=v.youku.com|tudou.com
 @@||youku.com/cms/playlog/get?
 ||atm.youku.com^$domain=~v.youku.com
+@@@@https://ykugc.cp31.ott.cibntv.net
+@@||ykugc.cp31.ott.cibntv.net
 ! 腾讯视频
 @@@@https://pingjs.qq.com/ping_video.js
 @@@@https://livep.l.qq.com
