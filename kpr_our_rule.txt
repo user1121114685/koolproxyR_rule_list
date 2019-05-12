@@ -119,6 +119,68 @@ https://www.douyu.com##.closeBg-998534
 @@@@||https://sinaimg.cn
 ! jsdelivr放行
 @@@@||https://jsdelivr.net
+! 小米电视去广告 ------------------ 来自网友分享----------------------------
+||market.xiaomi.com
+||https://market.xiaomi.com
+||http://market.xiaomi.com
+||market.mi-img.com
+||http://market.mi-img.com
+||https://market.mi-img.com
+||ad.mi.com
+||ad.xiaomi.com
+||http://ad.mi.com
+||http://ad.xiaomi.com
+||https://ad.mi.com
+||https://ad.xiaomi.com
+||ad1.xiaomi.com
+||http://ad1.xiaomi.com
+||https://ad1.xiaomi.com
+||o2o.api.xiaomi.com
+||pandora.mi.com
+||pandora.xiaomi.com
+||http://o2o.api.xiaomi.com
+||http://pandora.mi.com
+||http://pandora.xiaomi.com
+||https://o2o.api.xiaomi.com
+||https://pandora.mi.com
+||https://pandora.xiaomi.com
+||data.mistat.xiaomi.com
+||tracking.miui.com
+||http://data.mistat.xiaomi.com
+||http://tracking.miui.com
+||https://data.mistat.xiaomi.com
+||https://tracking.miui.com
+!播放出现问题时  可以删减 此区域的 Host 地址
+||http://img.cdn.mvideo.xiaomi.com
+||img.cdn.mvideo.xiaomi.com
+||https://img.cdn.mvideo.xiaomi.com
+!=====  通用型：广告投放商 拦截规则  所有电视都可以用 ====
+!京东
+||http://im-x.jd.com
+||https://im-x.jd.com
+||im-x.jd.com
+!友盟+
+||http://umeng.com
+||https://umeng.com
+||umeng.com
+!酷云监播
+||http://ikuyun.com
+||https://ikuyun.com
+||kuyun.com
+!广东南方新媒体股份
+||http://atianqi.com
+||https://atianqi.com
+||atianqi.com
+!银河互联网电视
+||auth.api.gitv.tv
+||appstore.ptmi.gitv.tv
+||gamecenter.ptmi.gitv.tv
+! 上海贞安精硕广告有限公司
+||admaster.com.cn
+||v.admaster.com.cn
+||79t2.admaster.com.cn
+||397c0.admaster.com.cn
+! 小米电视去广告结束  -------------------- 分享结束--------------
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
