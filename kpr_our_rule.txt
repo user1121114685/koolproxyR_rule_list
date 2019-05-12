@@ -171,6 +171,8 @@ https://www.douyu.com##.closeBg-998534
 ||http://atianqi.com
 ||https://atianqi.com
 ||atianqi.com
+@@http://tv.aiseet.atianqi.com
+@@http://vv.play.aiseet.atianqi.com
 !银河互联网电视
 ||auth.api.gitv.tv
 ||appstore.ptmi.gitv.tv
