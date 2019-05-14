@@ -112,7 +112,8 @@ https://www.douyu.com##.closeBg-998534
 |https://googleads.g.doubleclick.net/pagead/id
 ! 115上传文件放行
 @@@@https://uplb.115.com
-@@@@https://fhnfile.oss-cn-shenzhen.aliyuncs.com
+@@@@||https://oss-cn-shenzhen.aliyuncs.com
+@@@@||https://oss-cn-shanghai.aliyuncs.com
 ! MIUI骚扰拦截库更新功能放行
 @@@@https://api.sec.miui.com
 !微博分享图片放行
