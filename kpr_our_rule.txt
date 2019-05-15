@@ -121,6 +121,9 @@ https://www.douyu.com##.closeBg-998534
 ! jsdelivr放行
 @@@@||https://jsdelivr.net
 ! 小米电视去广告 ------------------ 来自网友分享----------------------------
+||http://package.box.xiaomi.com
+||https://package.box.xiaomi.com
+||package.box.xiaomi.com
 @@http://cesu.cdn.pandora.xiaomi.com
 ||market.mi-img.com
 ||http://market.mi-img.com
