@@ -125,6 +125,7 @@ https://www.douyu.com##.closeBg-998534
 ||https://package.box.xiaomi.com
 ||package.box.xiaomi.com
 @@http://cesu.cdn.pandora.xiaomi.com
+@@http://b0.market.xiaomi.com
 ||market.mi-img.com
 ||http://market.mi-img.com
 ||https://market.mi-img.com
