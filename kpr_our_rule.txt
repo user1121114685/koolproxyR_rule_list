@@ -110,6 +110,8 @@ https://www.douyu.com##.closeBg-998534
 ||https://youtube.com/get_midroll_
 |https://m.youtube.com/youtubei/v1/log_event
 |https://googleads.g.doubleclick.net/pagead/id
+|s.youtube.com/api/stats/
+|https://s.youtube.com/api/stats/
 ! 115上传文件放行
 @@@@https://uplb.115.com
 @@@@||https://oss-cn-shenzhen.aliyuncs.com
