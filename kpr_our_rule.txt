@@ -110,8 +110,6 @@ https://www.douyu.com##.closeBg-998534
 ||https://youtube.com/get_midroll_
 |https://m.youtube.com/youtubei/v1/log_event
 |https://googleads.g.doubleclick.net/pagead/id
-|s.youtube.com/api/stats/
-|https://s.youtube.com/api/stats/
 ! YouTube APP 去广告
 ! https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/specific_app.txt#L459
 ! Start: YT app
