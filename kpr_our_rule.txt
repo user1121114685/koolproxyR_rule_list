@@ -112,6 +112,9 @@ https://www.douyu.com##.closeBg-998534
 |https://googleads.g.doubleclick.net/pagead/id
 |s.youtube.com/api/stats/
 |https://s.youtube.com/api/stats/
+|https://www.youtube.com/api/stats/ads
+|https://www.youtube.com/pagead/adview
+@@@@https://securepubads.g.doubleclick.net
 ! https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/specific_app.txt#L459
 ! Start: YT app
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/573
