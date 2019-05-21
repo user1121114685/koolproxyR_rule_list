@@ -115,6 +115,7 @@ https://www.douyu.com##.closeBg-998534
 |https://www.youtube.com/api/stats/ads
 |https://www.youtube.com/pagead/adview
 @@@@https://securepubads.g.doubleclick.net
+|https://youtubei.googleapis.com/youtubei/v1/player/ad_break
 ! https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/specific_app.txt#L459
 ! Start: YT app
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/573
