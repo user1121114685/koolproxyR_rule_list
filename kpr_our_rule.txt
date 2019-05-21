@@ -110,19 +110,24 @@ https://www.douyu.com##.closeBg-998534
 ||https://youtube.com/get_midroll_
 |https://m.youtube.com/youtubei/v1/log_event
 |https://googleads.g.doubleclick.net/pagead/id
-! YouTube APP 去广告
+|s.youtube.com/api/stats/
+|https://s.youtube.com/api/stats/
 ! https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/specific_app.txt#L459
 ! Start: YT app
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/573
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/621
-||https://googleapis.com/youtubei/v1/browse?$important,protobuf=62887855|49413586|51621377
-||https://googleapis.com/youtubei/v1/browse?$protobuf=62887855|49413586|51621377
-||https://googleapis.com/youtubei/v1/next?$important,protobuf=55514441|62960614|65002523|105649908|82182324|99845384
-||https://googleapis.com/youtubei/v1/next?$protobuf=55514441|62960614|65002523|105649908|82182324|99845384
-||https://googleapis.com/youtubei/v1/player$important,protobuf=48841103|63112829|23|25
-||https://googleapis.com/youtubei/v1/player$protobuf=48841103|63112829|23|25
-||https://googleapis.com/youtubei/v1/search?$important,protobuf=73920376
-||https://googleapis.com/youtubei/v1/search?$protobuf=73920376
+||https://googleapis.com/youtubei/v1/browse?$s@important=62887855|49413586|51621377@@
+||https://googleapis.com/youtubei/v1/browse?$s@protobuf=62887855|49413586|51621377@@
+||https://googleapis.com/youtubei/v1/browse?$s@protobuf=62887855|49413586|51621377@@
+||https://googleapis.com/youtubei/v1/next?$s@important=55514441|62960614|65002523|105649908|82182324|99845384@@
+||https://googleapis.com/youtubei/v1/next?$s@protobuf=55514441|62960614|65002523|105649908|82182324|99845384@@
+||https://googleapis.com/youtubei/v1/next?$s@protobuf=55514441|62960614|65002523|105649908|82182324|99845384@@
+||https://googleapis.com/youtubei/v1/player$s@protobuf=48841103|63112829|23|25@@
+||https://googleapis.com/youtubei/v1/player$s@important=48841103|63112829|23|25@@
+||https://googleapis.com/youtubei/v1/player$s@protobuf=48841103|63112829|23|25@@
+||https://googleapis.com/youtubei/v1/search?$s@important=73920376@@
+||https://googleapis.com/youtubei/v1/search?$s@protobuf=73920376@@
+||https://googleapis.com/youtubei/v1/search?$s@protobuf=73920376@@
 ! End: YT app
 ! 115上传文件放行
 @@@@https://uplb.115.com
