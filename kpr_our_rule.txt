@@ -114,8 +114,11 @@ https://www.douyu.com##.closeBg-998534
 |https://s.youtube.com/api/stats/
 |https://www.youtube.com/api/stats/ads
 |https://www.youtube.com/pagead/adview
+|http://www.youtube.com/api/stats/ads
+|http://www.youtube.com/pagead/adview
 @@@@https://securepubads.g.doubleclick.net
 |https://youtubei.googleapis.com/youtubei/v1/player/ad_break
+|http://youtubei.googleapis.com/youtubei/v1/player/ad_break
 ! https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/specific_app.txt#L459
 ! Start: YT app
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/573
@@ -132,6 +135,18 @@ https://www.douyu.com##.closeBg-998534
 ||https://googleapis.com/youtubei/v1/search?$s@important=73920376@@
 ||https://googleapis.com/youtubei/v1/search?$s@protobuf=73920376@@
 ||https://googleapis.com/youtubei/v1/search?$s@protobuf=73920376@@
+||http://googleapis.com/youtubei/v1/browse?$s@important=62887855|49413586|51621377@@
+||http://googleapis.com/youtubei/v1/browse?$s@protobuf=62887855|49413586|51621377@@
+||http://googleapis.com/youtubei/v1/browse?$s@protobuf=62887855|49413586|51621377@@
+||http://googleapis.com/youtubei/v1/next?$s@important=55514441|62960614|65002523|105649908|82182324|99845384@@
+||http://googleapis.com/youtubei/v1/next?$s@protobuf=55514441|62960614|65002523|105649908|82182324|99845384@@
+||http://googleapis.com/youtubei/v1/next?$s@protobuf=55514441|62960614|65002523|105649908|82182324|99845384@@
+||http://googleapis.com/youtubei/v1/player$s@protobuf=48841103|63112829|23|25@@
+||http://googleapis.com/youtubei/v1/player$s@important=48841103|63112829|23|25@@
+||http://googleapis.com/youtubei/v1/player$s@protobuf=48841103|63112829|23|25@@
+||http://googleapis.com/youtubei/v1/search?$s@important=73920376@@
+||http://googleapis.com/youtubei/v1/search?$s@protobuf=73920376@@
+||http://googleapis.com/youtubei/v1/search?$s@protobuf=73920376@@
 ! End: YT app
 ! 115上传文件放行
 @@@@https://uplb.115.com
