@@ -112,13 +112,33 @@ https://www.douyu.com##.closeBg-998534
 |https://googleads.g.doubleclick.net/pagead/id
 |s.youtube.com/api/stats/
 |https://s.youtube.com/api/stats/
-|https://www.youtube.com/api/stats/ads
 |https://www.youtube.com/pagead/adview
 |http://www.youtube.com/api/stats/ads
 |http://www.youtube.com/pagead/adview
 @@@@https://securepubads.g.doubleclick.net
 |https://youtubei.googleapis.com/youtubei/v1/player/ad_break
 |http://youtubei.googleapis.com/youtubei/v1/player/ad_break
+!麋麋麋麋𐂂, [22.05.19 07:53]
+||https://youtube.com/api/stats/ads
+||https://youtube.com/get_midroll_
+||https://youtube.com/pagead/
+||https://youtube.com/ptracking
+||https://m.youtube.com/_get_ads
+||azabu-u.ac.jp
+||couchcoaster.jp
+||delivery.dmkt-sp.jp
+||ehg-youtube.hitbox.com
+||m-78.jp
+||nichibenren.or.jp
+||nicorette.co.kr
+||https://pagead2.googlesyndication.com/pagead/
+||https://premiumyva.appspot.com/vmclickstoadvertisersite
+||https://s.youtube.com/api/stats/watchtime?adformat
+||https://s0.2mdn.net/ads/
+||https://stats.tubemogul.com/stats/t
+||https://youtubei.googleapis.com/ad_break
+||https://youtubei.googleapis.com/youtubei/
+||https://youtube.com/api/stats/ads
 ! https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/specific_app.txt#L459
 ! Start: YT app
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/573
