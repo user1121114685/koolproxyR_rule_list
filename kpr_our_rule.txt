@@ -137,7 +137,7 @@ https://www.douyu.com##.closeBg-998534
 ||https://s0.2mdn.net/ads/
 ||https://stats.tubemogul.com/stats/t
 ||https://youtubei.googleapis.com/ad_break
-||https://youtubei.googleapis.com/youtubei/
+||https://youtubei.googleapis.com/youtubei/v1/log_event
 ||https://youtube.com/api/stats/ads
 ! https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/specific_app.txt#L459
 ! Start: YT app
