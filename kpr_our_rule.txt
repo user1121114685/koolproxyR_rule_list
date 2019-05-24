@@ -266,6 +266,7 @@ https://www.douyu.com##.closeBg-998534
 !百度网盘登录
 @@@@https://passport.baidu.com
 @@@@https://pan.baidu.com
+@@@@https://d.pcs.baidu.com
 !支付宝苹果设备放行
 @@@@https://mygw.alipay.com
 !微信公众号放行
