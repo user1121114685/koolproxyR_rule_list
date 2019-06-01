@@ -168,6 +168,14 @@ https://www.douyu.com##.closeBg-998534
 ||http://googleapis.com/youtubei/v1/search?$s@protobuf=73920376@@
 ||http://googleapis.com/youtubei/v1/search?$s@protobuf=73920376@@
 ! End: YT app
+||googleapis.com/youtubei/v1/browse?$important,protobuf=62887855|49413586|51621377 
+||googleapis.com/youtubei/v1/browse?$protobuf=62887855|49413586|51621377 
+||googleapis.com/youtubei/v1/next?$important,protobuf=55514441|62960614|65002523|105649908|82182324|99845384 
+||googleapis.com/youtubei/v1/next?$protobuf=55514441|62960614|65002523|105649908|82182324|99845384 
+||googleapis.com/youtubei/v1/player$important,protobuf=48841103|63112829|23|25 
+||googleapis.com/youtubei/v1/player$protobuf=48841103|63112829|23|25 
+||googleapis.com/youtubei/v1/search?$important,protobuf=73920376 
+||googleapis.com/youtubei/v1/search?$protobuf=73920376
 ! 115上传文件放行
 @@@@https://uplb.115.com
 @@@@||https://oss-cn-shenzhen.aliyuncs.com
