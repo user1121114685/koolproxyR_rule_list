@@ -188,7 +188,7 @@ https://www.douyu.com##.closeBg-998534
 !微博分享图片放行
 @@@@||https://sinaimg.cn
 ! jsdelivr放行
-@@@@||https://jsdelivr.net
+@@@@||https://cdn.jsdelivr.net
 ! 小米电视去广告 ------------------ 来自网友分享----------------------------
 ||http://package.box.xiaomi.com
 ||https://package.box.xiaomi.com
