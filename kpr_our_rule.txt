@@ -194,7 +194,8 @@ https://www.douyu.com##.closeBg-998534
 ! 一个看电视剧的网站
 ||https://yueyuju.com##.tp_reccomend_banner,[style="margin:8px 0;box-shadow: 0 1px 2px rgba(0,0,0,0.2);"],[ id="HMDownBox" ],[style="height: auto;"]
 |https://iek.jiekc.com
-! 一个以前KP的规制
+! 远景论坛
+||bbs.pcbeta.com$s@{width:980px; position:relative; height:171px; padding:10px;@{width:0px; position:relative; height:0px; padding:0px;@
 ||bbs.pcbeta.com$s@{padding:9px;width:980px;height:4??px;@{padding:9px;width:980px;height:260px;@
 ! 淘宝，天猫其余部分域名放行
 @@@@https://ecpm.tanx.com
