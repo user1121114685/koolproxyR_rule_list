@@ -41,6 +41,7 @@
 @@@@https://tbcache.com
 @@@@https://71edge.com
 @@@@https://cupid.iqiyi.com
+|https://static.iqiyi.com/js/player_v2
 ! 56 tv
 @@http://s3.56img.com
 !驱动之家 首页广告
