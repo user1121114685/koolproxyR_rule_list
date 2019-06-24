@@ -157,10 +157,6 @@ https://www.douyu.com##.closeBg-998534
 ||img.cdn.mvideo.xiaomi.com
 ||https://img.cdn.mvideo.xiaomi.com
 !=====  通用型：广告投放商 拦截规则  所有电视都可以用 ====
-!京东
-||http://im-x.jd.com
-||https://im-x.jd.com
-||im-x.jd.com
 !友盟+
 ||http://umeng.com
 ||https://umeng.com
@@ -255,11 +251,11 @@ https://www.douyu.com##.closeBg-998534
 @@http://analytics.163.com
 ! v2ex.com
 ![In reply to 白告]
-||https://v2ex.com/assets/sidebar/
-||https://googlesyndication.com/pagead/
-||https://v2ex.com##.inner
-||https://v2ex.com###Rightbar > DIV.box:nth-child(4) > DIV.cell:first-child
-||https://v2ex.com###Rightbar > DIV.box:nth-child(6) > DIV.cell:first-child
+||https://v2ex.com###Rightbar > DIV.box:nth-child(4)
+||https://v2ex.com###Rightbar > DIV.box:nth-child(6)
+||https://v2ex.com###Rightbar > DIV.sep20:nth-child(5)
+||https://v2ex.com###Rightbar > DIV.sep20:nth-child(3)
+||https://v2ex.com###Wrapper > DIV.content > DIV.box:last-child
 ! 快递100放行
 @@@@||https://p.kuaidi100.com
 ! 谷歌云gcp日志放行
