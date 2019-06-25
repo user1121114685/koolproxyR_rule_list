@@ -278,6 +278,12 @@ https://www.douyu.com##.closeBg-998534
 ||https://ja1.gamersky.com
 ||https://ja2.gamersky.com
 ||https://gamersky.com##div[class="ad_r"],[class="MidR_ad"]
+!恩山
+||https://www.right.com.cn##.a_t,div#diy1.area,div.a_p,div.a_pr,DIV.column.frame-1-c,div.wp.a_f,div.a_cn,.a_mu,.a_pt,.a_pb,div.wp.a_h
+||https://www.right.com.cn##img[src^="static/image/common/logo2.gif"]
+||https://www.right.com.cn/logo/*.gif$image
+!威锋
+|https://bbs.feng.com##DIV[class="wrap"],[class^="a_pt"]
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
