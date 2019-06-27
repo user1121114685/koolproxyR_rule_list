@@ -316,7 +316,7 @@ https://www.douyu.com##.closeBg-998534
 ||https://mail.sina.com.cn##div[class="connMod"]
 ||https://mail.sina.com.cn##div[class="ad1"]
 ||https://mail.sina.com.cn##div[class="extendAd"]
-! 草榴社区 去除60秒等待
+! 草榴社区 去除60秒等待 去除连接30秒等待，去除广告屏蔽不显示内容（kpr原则上不过滤黄网广告，但是草榴曾经封了我三个月的账号，得罪了方丈还想跑？）
 ||http://t66y.com$s@r2aeadS(){@noads(){@
 ||https://t66y.com$s@r2aeadS(){@noads(){@
 ||https://cnzz.com^$third-party
@@ -329,6 +329,8 @@ https://www.douyu.com##.closeBg-998534
 ||https://t66y.com##div[class^="sptable_do"]
 ||http://viidii.info/web$s@JSON.parse(spJson);@noad@
 ||https://viidii.info/web$s@JSON.parse(spJson);@noad@
+||http://viidii.info/web$s@spinit(){@noad(){@
+||https://viidii.info/web$s@spinit(){@noad(){@
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
