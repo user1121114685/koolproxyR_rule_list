@@ -305,6 +305,17 @@ https://www.douyu.com##.closeBg-998534
 |https://wkstatic.bdimg.com/static/wkview/widget/ad
 |https://wenku.baidu.com/view$s@/third_party/fengchao_plugin@/third_party@
 |https://wk.baidu.com/view$s@component/foldPage@component@
+! 手机百度首页去广告
+|https://www.baidu.com##div[class="center-content"]
+|https://m.baidu.com##div[class="center-content"]
+|https://m.baidu.com###index-box
+|https://www.baidu.com###index-box
+|https://www.baidu.com##div[class="baiduappcall-wrap"]
+|https://m.baidu.com##div[class="baiduappcall-wrap"]
+! 新浪邮箱
+||https://mail.sina.com.cn##div[class="connMod"]
+||https://mail.sina.com.cn##div[class="ad1"]
+||https://mail.sina.com.cn##div[class="extendAd"]
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
