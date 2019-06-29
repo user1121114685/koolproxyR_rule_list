@@ -341,6 +341,18 @@ https://www.douyu.com##.closeBg-998534
 ||fodm.net/###content_box_60090
 ||fodm.net/###content_box_72890_out
 ||fodm.net/###forum_btn
+!站长之家
+||https://chinaz.com##div[class$="ml10"]
+||https://chinaz.com##div[class^="fotatxtd"][class$="auto"]
+||https://chinaz.com##div[class$="fr"]
+||http://chinaz.com##div[class$="ml10"]
+||http://chinaz.com##div[class^="fotatxtd"][class$="auto"]
+||http://chinaz.com##div[class$="fr"]
+! 百度搜索广告
+|https://ss1.bdstatic.com/*/r/www/cache/static/protocol/https/global/js
+! 殁漂遥
+||https://mpyit.com###sidebar > div > div[class="box"]
+||https://mpyit.com/$s@<h3>合作伙伴</h3>@@
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
