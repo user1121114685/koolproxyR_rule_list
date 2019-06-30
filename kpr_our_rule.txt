@@ -180,6 +180,7 @@ https://www.douyu.com##.closeBg-998534
 ||auth.api.gitv.tv
 ||appstore.ptmi.gitv.tv
 ||gamecenter.ptmi.gitv.tv
+@@http://pl.cp31.ott.cibntv.net
 ! 上海贞安精硕广告有限公司
 ||admaster.com.cn
 ||v.admaster.com.cn
