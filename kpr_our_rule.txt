@@ -348,13 +348,13 @@ https://www.douyu.com##.closeBg-998534
 ||https://chinaz.com###topTxt
 ||https://chinaz.com###toolsIntro
 ||https://chinaz.com###bottomImg
-||https://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox
+||https://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox,div[class^="mb"]
 ||http://chinaz.com##div[id^="side-media"]
 ||http://chinaz.com##div[id^="content-media"]
 ||http://chinaz.com###topTxt
 ||http://chinaz.com###toolsIntro
 ||http://chinaz.com###bottomImg
-||http://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox
+||http://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox,div[class^="mb"]
 ! 百度搜索广告
 |https://ss1.bdstatic.com/*/r/www/cache/static/protocol/https/global/js
 ! 殁漂遥
