@@ -316,6 +316,7 @@ https://www.douyu.com##.closeBg-998534
 |https://www.baidu.com###header > div:nth-child(7) > div
 |https://m.baidu.com###header > div:nth-child(7) > div
 |https://www.baidu.com##.index-banner.square-banner-icon
+|https://www.baidu.com###index-card > div.blank-frame
 ! 新浪邮箱
 ||https://mail.sina.com.cn##div[class="connMod"]
 ||https://mail.sina.com.cn##div[class="ad1"]
