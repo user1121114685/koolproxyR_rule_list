@@ -336,7 +336,7 @@ https://www.douyu.com##.closeBg-998534
 ||http://viidii.info/web$s@spinit(){@noad(){@
 ||https://viidii.info/web$s@spinit(){@noad(){@
 ||http://viidii.info$s@if(cnt!=1){@if(cnt!=NaN){@
-||https://viidii.info$s@if(cnt!=1){@if(cnt!=NaN){@
+||http://viidii.info$s@if(cnt!=1){@if(1!=1){@
 !fodm
 ||fodm.net/$s@solid;width:960px;height:90px@solid;width:0px;height:0px@
 ||https://vip.51hyper.com
@@ -347,16 +347,18 @@ https://www.douyu.com##.closeBg-998534
 !站长之家
 ||https://chinaz.com##div[id^="side-media"]
 ||https://chinaz.com##div[id^="content-media"]
-||https://chinaz.com###topTxt
 ||https://chinaz.com###toolsIntro
-||https://chinaz.com###bottomImg
-||https://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox,div[class^="mb"]
+||https://chinaz.com###head > div.main.pr > div.CClose
+||https://chinaz.com###bgad
+||https://chinaz.com$s@style="margin-top:80px;"@style="margin-top:0px;"@
+||https://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox,div[class^="mb"],div#loc.Mnav-right02.fr,div.CClose,div#topTxt.fr.topTsRight.ml10,div#bottomImg.fotatxtd.auto
 ||http://chinaz.com##div[id^="side-media"]
 ||http://chinaz.com##div[id^="content-media"]
-||http://chinaz.com###topTxt
 ||http://chinaz.com###toolsIntro
-||http://chinaz.com###bottomImg
-||http://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox,div[class^="mb"]
+||http://chinaz.com###head > div.main.pr > div.CClose
+||http://chinaz.com###bgad
+||http://chinaz.com$s@style="margin-top:80px;"@style="margin-top:0px;"@
+||http://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox,div[class^="mb"],div#loc.Mnav-right02.fr,div.CClose,div#topTxt.fr.topTsRight.ml10,div#bottomImg.fotatxtd.auto
 ! 百度搜索广告
 |https://ss1.bdstatic.com/*/r/www/cache/static/protocol/https/global/js
 ! 殁漂遥
