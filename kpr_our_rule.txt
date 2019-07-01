@@ -335,6 +335,8 @@ https://www.douyu.com##.closeBg-998534
 ||https://viidii.info/web$s@JSON.parse(spJson);@noad@
 ||http://viidii.info/web$s@spinit(){@noad(){@
 ||https://viidii.info/web$s@spinit(){@noad(){@
+||http://viidii.info$s@if(cnt!=1){@if(cnt!=NaN){@
+||https://viidii.info$s@if(cnt!=1){@if(cnt!=NaN){@
 !fodm
 ||fodm.net/$s@solid;width:960px;height:90px@solid;width:0px;height:0px@
 ||https://vip.51hyper.com
