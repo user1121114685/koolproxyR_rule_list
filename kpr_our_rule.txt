@@ -367,26 +367,6 @@ https://www.douyu.com##.closeBg-998534
 ||https://mpyit.com/$s@<h3>合作伙伴</h3>@@
 ! 虎牙
 ||https://www.huya.com/##div#J_spbg.special-bg,div#J_listAdx.list-adx,.box-recom,.list-notice,div#j-list-preview-box.list-preview-box,.sidebar-banner,div#J_roomGg1.room-gg-1
-! youtube  app测试
-||https://googleadservices.com/pagead/conversion/
-||https://youtube.com/api/stats/ads?
-||https://securepubads.g.doubleclick.net/pcs/view?
-||https://youtube.com/pagead/adview?
-||https://googleads.g.doubleclick.net/pagead/adview?
-||https://youtube.com/api/stats/watchtime?
-||https://youtube.com/pagead/conversion/
-||https://googlevideo.com/.+&oad
-||https://googlevideo.com/ptracking\?pltype=adhost
-||https://youtubei.googleapis.com/.+ad_break
-||https://stats.tubemogul.com/stats/
-||https://s0.2mdn.net/ads/
-||https://s.youtube.com/api/stats/watchtime?adformat
-||https://premiumyva.appspot.com/vmclickstoadvertisersite
-||https://pagead2.googlesyndication.com/pagead/
-||https://m.youtube.com/_get_ads
-||https://youtube.com/ptracking\?
-||https://youtube.com/get_midroll
-||https://youtube.com/api/stats/ads
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
