@@ -371,7 +371,6 @@ https://www.douyu.com##.closeBg-998534
 ||https://91wii.com##img[id^="img_"],div[class^="a_"],[style^="display:inline-block;"]
 ! 蓝点网
 ||https://landiannews.com##section[class="ad"],div[class="NOTICE"],div[id^="metaslider_container"],ins[class="adsbygoogle"],section[id^="metaslider_widget"],div[class="slider-wrapper theme-default"],section[id^="custom_html"],section[id^="media_image"]
-
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
