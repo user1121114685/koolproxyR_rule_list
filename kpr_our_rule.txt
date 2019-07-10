@@ -353,6 +353,7 @@ https://www.douyu.com##.closeBg-998534
 ||fodm.net/###content_box_60090
 ||fodm.net/###content_box_72890_out
 ||fodm.net/###forum_btn
+|https://og.ylxxf.top 
 !站长之家
 ||https://chinaz.com##div[id^="side-media"]
 ||https://chinaz.com##div[id^="content-media"]
