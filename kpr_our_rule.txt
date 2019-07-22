@@ -80,6 +80,7 @@ http://*btbtt.*###wrapper2 > DIV.width:nth-child(2) > DIV.error
 http://www.btbtt.co###wrapper_right_bg
 http://www.btbtt.co###wrapper_left_bg
 ||http://www.btbtt.co##div.width:nth-of-type(2)
+||http://*btbtt.*/slade.js
 ! 爱奇艺广告
 @@@@||https://cupid.iqiyi.com^
 !天天美剧
@@ -370,6 +371,7 @@ https://www.douyu.com##.closeBg-998534
 ||http://chinaz.com$s@style="margin-top:80px;"@style="margin-top:0px;"@
 ||http://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox,div[class^="mb"],div#loc.Mnav-right02.fr,div.CClose,div#topTxt.fr.topTsRight.ml10,div#bottomImg.fotatxtd.auto
 ! 百度搜索广告
+@@@@https://ss1.bdstatic.com
 |https://ss1.bdstatic.com/*/r/www/cache/static/protocol/https/global/js
 ! 殁漂遥
 ||https://mpyit.com###sidebar > div > div[class="box"]
