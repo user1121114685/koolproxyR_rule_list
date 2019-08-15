@@ -13,31 +13,6 @@
 !  "|" 为管线符号，来表示地址的最前端或最末端
 !  "||" 为子域通配符，方便匹配主域名下的所有子域
 ! -------------------------------------------------------------------------------------------
-!优酷规则补充。
-@@@@https://*.mp4.ts
-@@||*.mp4.ts
-||https://youku.com/cms/tool/pub/get_putdata.
-||https://ykimg.com/material/*/ad/
-||https://tip.soku.com/searches/soku/kubox/v4/sideads.json
-||vali.cp31.ott.cibntv.net
-@@@@https://ykimg.alicdn.com
-@@@@https://liangcang-material.alicdn.com
-@@@@https://log.mmstat.com
-@@@@https://gm.mmstat.com
-@@@@https://yt.mmstat.com
-@@@@https://yt1.mmstat.com
-@@||youku.com/cms/player/userinfo/
-@@||mmstat.com/$script,image,domain=v.youku.com|tudou.com
-@@||youku.com/cms/playlog/get?
-||atm.youku.com^$domain=~v.youku.com
-@@@@https://ykugc.cp31.ott.cibntv.net
-@@||ykugc.cp31.ott.cibntv.net
-! 腾讯视频
-@@@@https://pingjs.qq.com
-@@@@https://livep.l.qq.com
-@@@@https://vd.l.qq.com
-! 56 tv
-@@http://s3.56img.com
 !驱动之家 首页广告
 https://news.mydrivers.com###dangbei_down > IMG
 https://news.mydrivers.com###aswift_1
