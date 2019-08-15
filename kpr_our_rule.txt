@@ -75,8 +75,6 @@ http://www.btbtt.co###wrapper_right_bg
 http://www.btbtt.co###wrapper_left_bg
 ||http://www.btbtt.co##div.width:nth-of-type(2)
 ||http://*btbtt.*/slade.js
-! 爱奇艺广告
-@@@@||https://cupid.iqiyi.com^
 !天天美剧
 http://ttmeiju.me##DIV:nth-child(2) > P > A > IMG
 http://ttmeiju.me###footer > DIV:first-child > P > IMG
