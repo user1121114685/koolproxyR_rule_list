@@ -421,7 +421,7 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 ! Hulu Browser [Block ads on Hulu's base plan.][19.08.19]
 ! Chrome Extension Author:Connor Virostek
 |https://player.hulu.com$r@*/app.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/app.js@
-|https://player.hulu.com$r@*/external.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/external.js
+|https://player.hulu.com$r@*/external.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/external.js@
 ! Prime Video [Exclusion][19.08.19]
 @@@@||https://www.primevideo.com
 
