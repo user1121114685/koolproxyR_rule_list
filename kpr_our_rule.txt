@@ -418,9 +418,12 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 @@@@https://catdot.dianping.com
 @@@@https://report.meituan.com
 @@@@https://api-unionid.meituan.com
-! Hulu Browser [Block ads on Hulu's base plan.] [Test Rule]
-!|https://player.hulu.com$r@*/app.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/app.js@
-!|https://player.hulu.com$r@*/external.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/external.js@
+! Hulu Browser [Block ads on Hulu's base plan.][19.08.19]
+! Chrome Extension Author:Connor Virostek
+|https://player.hulu.com$r@*/app.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/app.js@
+|https://player.hulu.com$r@*/external.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/external.js
+! Prime Video [Exclusion][19.08.19]
+@@@@||https://www.primevideo.com
 
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
