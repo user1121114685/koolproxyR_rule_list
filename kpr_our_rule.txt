@@ -418,6 +418,10 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 @@@@https://catdot.dianping.com
 @@@@https://report.meituan.com
 @@@@https://api-unionid.meituan.com
+! Hulu Browser [Block ads on Hulu's base plan.] [Test Rule]
+!|https://player.hulu.com$r@*/app.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/app.js@
+!|https://player.hulu.com$r@*/external.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/external.js@
+
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
 ! ------------------------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- 以下规则搬运自 koolproxy -------------------------------------------------------
