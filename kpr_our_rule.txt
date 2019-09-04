@@ -80,6 +80,11 @@ https://www.douyu.com##.closeBg-998534
 ||http://game.ali213.net###hd_ad
 ! 豆瓣电影搜索
 @@@@|https://erebor.douban.com
+@@@@||https://doubanio.com
+@@@@https://artery.douban.com
+@@@@https://api.douban.com
+@@@@https://frodo.douban.com
+@@@@https://api.douban.com
 ! 115部分放行
 @@@@https://uplb.115.com
 @@@@https://home.115.com
