@@ -33,10 +33,10 @@ https://news.mydrivers.com###aswift_1
 ||https://googlesyndication.com^$third-party
 ||https://tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ! 2
-||mydrivers.com##div[class="baidu"],[style="width:580px;margin:auto; padding:10px 0"],[style="padding:4px 0;"],[id^="mynews"],[class="ad_warp side_ad_top"],[class="ad_warp side_ad_top"],ins[class="adsbygoogle"],[class="taobao_add"],[style="padding:3px 0;"],[id="a_showhotnews_list_dia"]
+||mydrivers.com##div[class="baidu"],[style="width:580px;margin:auto; padding:10px 0"],[style="padding:4px 0;"],[class="ad_warp side_ad_top"],[class="ad_warp side_ad_top"],ins[class="adsbygoogle"],[class="taobao_add"],[style="padding:3px 0;"],[id="a_showhotnews_list_dia"]
 ||mydrivers.com$s@<table width="1000" align="center" style="border: 1px solid #5A7EA0" height="90" border="0" cellpadding="0" cellspacing="0">@<table style='display: none;'>@
 ||mydrivers.com$s@style="width:728px; height:90px;@style="width:0px; height:0px;@
-||https://mydrivers.com##div[class="baidu"],[style="width:580px;margin:auto; padding:10px 0"],[style="padding:4px 0;"],[id^="mynews"],[class="ad_warp side_ad_top"],[class="ad_warp side_ad_top"],ins[class="adsbygoogle"],[class="taobao_add"],[style="padding:3px 0;"],[id="a_showhotnews_list_dia"]
+||https://mydrivers.com##div[class="baidu"],[style="width:580px;margin:auto; padding:10px 0"],[style="padding:4px 0;"],[class="ad_warp side_ad_top"],[class="ad_warp side_ad_top"],ins[class="adsbygoogle"],[class="taobao_add"],[style="padding:3px 0;"],[id="a_showhotnews_list_dia"]
 ||https://mydrivers.com$s@<table width="1000" align="center" style="border: 1px solid #5A7EA0" height="90" border="0" cellpadding="0" cellspacing="0">@<table style='display: none;'>@
 ||https://mydrivers.com$s@style="width:728px; height:90px;@style="width:0px; height:0px;@
 !btbtt 首页广告
