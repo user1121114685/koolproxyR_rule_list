@@ -35,6 +35,22 @@
 ||http://mydrivers.com$s@id="mynews?00"@style="display:none"@
 ||http://mydrivers.com$s@var f =*resetIdleTimeup()@ok;@
 !  ------------------------------------------------------------------------------------------
+! 站长之家
+@@@@|http://stats.chinaz.com/c0g/hottj.js
+@@@@|http://stats.chinaz.com/c0g/right*.js
+@@@@||http://chinaz.com/img/
+|http://stats.chinaz.com/c0g/*.js
+|http://stats.chinaz.com/gj_g/*.js
+|https://stats.chinaz.com/gj_g/*.js
+|http://stats.chinaz.com/tp_g/*.js
+|https://stats.chinaz.com/tp_g/*.js
+|http://stats.chinaz.com/zx_g/
+|https://stats.chinaz.com/zx_g/
+||http://chinaz.com##[id="topTxt"],[id="loc"],[id="bottomImg"],[class="advert"],[class="adtext"],[class="recommendsoft"],[class="banner banner-leaderboard"],[class="plate-layout img_wrap_l goTop"],[class="fr fz14"]
+||http://chinaz.com##[style="margin-bottom:0px;"],[class="Wrapper pt20"],[class^="adbox"],[class^="mb20"],[class^="txtAdBox"],[id^="side-media"],[id^="ad_"],[id^="content-media"],[style="text-align:center"]
+||https://chinaz.com##[id="topTxt"],[id="loc"],[id="bottomImg"],[class="advert"],[class="adtext"],[class="recommendsoft"],[class="banner banner-leaderboard"],[class="plate-layout img_wrap_l goTop"],[class="fr fz14"]
+||https://chinaz.com##[style="margin-bottom:0px;"],[class="Wrapper pt20"],[class^="adbox"],[class^="mb20"],[class^="txtAdBox"],[id^="side-media"],[id^="ad_"],[id^="content-media"],[style="text-align:center"]
+!  ------------------------------------------------------------------------------------------
 !btbtt 首页广告
 http://*btbtt.*##.wrapper_bg_c.hidden-xs
 http://*btbtt.*###wrapper_right_bg
@@ -323,21 +339,6 @@ https://www.douyu.com##.closeBg-998534
 ||fodm.net/###content_box_72890_out
 ||fodm.net/###forum_btn
 |https://og.ylxxf.top 
-!站长之家
-||https://chinaz.com##div[id^="side-media"]
-||https://chinaz.com##div[id^="content-media"]
-||https://chinaz.com###toolsIntro
-||https://chinaz.com###head > div.main.pr > div.CClose
-||https://chinaz.com###bgad
-||https://chinaz.com$s@style="margin-top:80px;"@style="margin-top:0px;"@
-||https://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox,div[class^="mb"],div#loc.Mnav-right02.fr,div.CClose,div#topTxt.fr.topTsRight.ml10,div#bottomImg.fotatxtd.auto
-||http://chinaz.com##div[id^="side-media"]
-||http://chinaz.com##div[id^="content-media"]
-||http://chinaz.com###toolsIntro
-||http://chinaz.com###head > div.main.pr > div.CClose
-||http://chinaz.com###bgad
-||http://chinaz.com$s@style="margin-top:80px;"@style="margin-top:0px;"@
-||http://chinaz.com##div.wrapper.ptb10.mt10,div.txtAdBox.mb10,div.adtext,div.recommendsoft,div.plate-layout.img_wrap_l.goTop,div.red,div.adbox,div[class^="mb"],div#loc.Mnav-right02.fr,div.CClose,div#topTxt.fr.topTsRight.ml10,div#bottomImg.fotatxtd.auto
 ! 百度搜索广告
 @@@@https://ss1.bdstatic.com
 |https://ss1.bdstatic.com/*/r/www/cache/static/protocol/https/global/js
