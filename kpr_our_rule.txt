@@ -13,32 +13,28 @@
 !  "|" 为管线符号，来表示地址的最前端或最末端
 !  "||" 为子域通配符，方便匹配主域名下的所有子域
 ! -------------------------------------------------------------------------------------------
-!驱动之家 首页广告
-https://news.mydrivers.com###dangbei_down > IMG
-https://news.mydrivers.com###aswift_1
-!驱动之家 去广告补充（去空白页，页面更美观）
-||https://news.mydrivers.com##.baidu_left > .adsbygoogle
-||https://news.mydrivers.com##.news_right > div:nth-of-type(2)
-||https://news.mydrivers.com##div.side_ad_top.ad_warp:nth-of-type(8)
-||https://news.mydrivers.com###taobao_add > div:nth-of-type(3)
-||https://news.mydrivers.com##.news_left > div:nth-of-type(5)
-||https://news.mydrivers.com##.news_info > div:nth-of-type(5)
-||https://news.mydrivers.com##.news_info > div:nth-of-type(6)
-||https://news.mydrivers.com###taobao_add
-||http://www.mydrivers.com##.main_right > div:nth-of-type(3)
-||http://www.mydrivers.com##body > div:nth-of-type(11)
-||http://www.mydrivers.com##div:nth-of-type(13)
-||http://www.mydrivers.com##div:nth-of-type(17)
-||http://www.mydrivers.com##body > div:nth-of-type(7)
-||https://googlesyndication.com^$third-party
-||https://tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
-! 2
-||mydrivers.com##div[class="baidu"],[style="width:580px;margin:auto; padding:10px 0"],[style="padding:4px 0;"],[class="ad_warp side_ad_top"],[class="ad_warp side_ad_top"],ins[class="adsbygoogle"],[class="taobao_add"],[style="padding:3px 0;"],[id="a_showhotnews_list_dia"],[style="width:0px; height:0px; margin:auto; padding-top:5px;"]
-||mydrivers.com$s@<table width="1000" align="center" style="border: 1px solid #5A7EA0" height="90" border="0" cellpadding="0" cellspacing="0">@<table style='display: none;'>@
-||mydrivers.com$s@style="width:728px; height:90px;@style="width:0px; height:0px;@
-||https://mydrivers.com##div[class="baidu"],[style="width:580px;margin:auto; padding:10px 0"],[style="padding:4px 0;"],[class="ad_warp side_ad_top"],[class="ad_warp side_ad_top"],ins[class="adsbygoogle"],[class="taobao_add"],[style="padding:3px 0;"],[id="a_showhotnews_list_dia"],[style="width:0px; height:0px; margin:auto; padding-top:5px;"]
-||https://mydrivers.com$s@<table width="1000" align="center" style="border: 1px solid #5A7EA0" height="90" border="0" cellpadding="0" cellspacing="0">@<table style='display: none;'>@
-||https://mydrivers.com$s@style="width:728px; height:90px;@style="width:0px; height:0px;@
+! 驱动之家
+|https://cdn.taboola.com/libtrc/*.js
+|http://cdn.taboola.com/libtrc/*.js
+|https://tu.baixing.com/widget/script/
+|http://tu.baixing.com/widget/script/
+|https://static.mediav.com/js
+|http://static.mediav.com/js
+||https://googlesyndication.com/pagead/js/adsbygoogle.js
+||http://googlesyndication.com/pagead/js/adsbygoogle.js
+||https://mydrivers.com##[style^="width:1300px;"],[style^="width:1100px;"],[style^="width:580px;"],[style^="width:728px;"],[width="843"],[width^="1000"],[style^="padding-top:5px;"]
+||https://mydrivers.com##[class="GC_box"],[class="baidu"],[class="taobao_add"],[id="taboola-below-article-thumbnails"]
+||https://mydrivers.com$s@style="padding:?px 0;"@style="display:none"@
+||https://mydrivers.com$s@id="mynews?00"@style="display:none"@
+||https://mydrivers.com$s@var f =*resetIdleTimeup()@ok;@
+||https://mydrivers.com$s@style="padding:0px 0px 0px 0px;text-align:center;"@style="display:none"@
+||https://mydrivers.com$s@display:block !important;@display:none !important;@
+||http://mydrivers.com##[style^="width:1300px;"],[style^="width:1100px;"],[style^="width:580px;"],[style^="width:728px;"],[width="843"],[width^="1000"],[style^="padding-top:5px;"]
+||http://mydrivers.com##[class="GC_box"],[class="baidu"],[class="taobao_add"],[id="taboola-below-article-thumbnails"]
+||http://mydrivers.com$s@style="padding:?px 0;"@style="display:none"@
+||http://mydrivers.com$s@id="mynews?00"@style="display:none"@
+||http://mydrivers.com$s@var f =*resetIdleTimeup()@ok;@
+!  ------------------------------------------------------------------------------------------
 !btbtt 首页广告
 http://*btbtt.*##.wrapper_bg_c.hidden-xs
 http://*btbtt.*###wrapper_right_bg
