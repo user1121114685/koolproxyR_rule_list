@@ -497,10 +497,10 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 ||https://s.zsjyc.top/
 ||https://s.bejzz.top
 ! 百度搜索
-|https://www.baidu.com/s$s@id="ecomScript">*</script>@id="Fuck Ad"></script>@
-|https://www.baidu.com/s$s@id="?00?"@id="Fuck Ad" style="display:none"@
-|https://www.baidu.com/s$s@id="m??????????_canvas"@id="Fuck Ad" style="display:none"@
-|https://www.baidu.com/s$s@id="m???_canvas"@id="Fuck Ad" style="display:none"@
+|https://www.baidu.com/$s@id="ecomScript">*</script>@id="Fuck Ad"></script>@
+|https://www.baidu.com/$s@id="?00?"@id="Fuck Ad" style="display:none"@
+|https://www.baidu.com/$s@id="m??????????_canvas"@id="Fuck Ad" style="display:none"@
+|https://www.baidu.com/$s@id="m???_canvas"@id="Fuck Ad" style="display:none"@
 ! 蓝奏云
 |https://statics.woozooo.com/img/
 ! ----------------------------------------------请在此行线以上填写新增规则------------------------------------------------------
