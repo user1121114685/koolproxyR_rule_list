@@ -36,6 +36,7 @@
 ||http://mydrivers.com$s@var f =*resetIdleTimeup()@ok;@
 !  ------------------------------------------------------------------------------------------
 ! 站长之家
+! 这是一个测试提交。
 @@@@|http://stats.chinaz.com/c0g/hottj.js
 @@@@|http://stats.chinaz.com/c0g/right*.js
 @@@@||http://chinaz.com/img/
