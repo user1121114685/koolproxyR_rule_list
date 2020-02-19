@@ -36,7 +36,6 @@
 ||http://mydrivers.com$s@var f =*resetIdleTimeup()@ok;@
 !  ------------------------------------------------------------------------------------------
 ! 站长之家
-! 这是一个测试提交。|
 @@@@|http://stats.chinaz.com/c0g/hottj.js
 @@@@|http://stats.chinaz.com/c0g/right*.js
 @@@@||http://chinaz.com/img/
@@ -7287,11 +7286,6 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 |http://*_pop.js|$script,domain=~10086.cn|~granbluefantasy.jp
 |http://*_right_ad.$domain=~dzwww.com
 !-----------------------------------搬运完毕----------------------------------------------
-||https://pstatp.com
-||https://snssdk.com
-||https://umengcloud.com
-||https://umeng.com
-||https://hdmm168.com
 @@@@|https://api3-normal-c-lq.snssdk.com
 @@@@|https://drop-l-toutiao-lq.snssdk.com
 @@@@|http://sf1-ttcdn-tos.pstatp.com
