@@ -384,7 +384,7 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 @@@@|https://mime.baidu.com
 ! 有道云笔记
 @@@@|https://note.youdao.com
-! 抖音國際版解鎖改版?
+! 國際版解鎖改版?
 ||https://tiktokv.com/$r@_region=CN@_region=JP@
 ||https://byteoversea.com/$r@_region=CN@_region=JP@
 ||https://musical.ly/$r@_region=CN@_region=JP@
@@ -395,9 +395,9 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 ||https://musical.ly/$r@&watermark=1@@
 ! 日区抖音去水印下载
 ||https://tiktokv.com/$r@&watermark=1@@
-! 国区抖音去水印下载
-||https://snssdk.com$r@&watermark=1@@
-||https://amemv.com$r@&watermark=1@@
+! 国区抖音去水印下载(已失效)
+!||https://snssdk.com$r@&watermark=1@@
+!||https://amemv.com$r@&watermark=1@@
 ! B站直播上传放行
 @@||http://v.smtcdns.net
 @@@@||https://v.smtcdns.net
