@@ -13,6 +13,9 @@
 !  "|" 为管线符号，来表示地址的最前端或最末端
 !  "||" 为子域通配符，方便匹配主域名下的所有子域
 ! -------------------------------------------------------------------------------------------
+!手机优酷
+@@http://ykugc.cp31.ott.cibntv.net
+@@http://ykugc-vip.cp31.ott.cibntv.net
 ! 驱动之家
 |https://cdn.taboola.com/libtrc/*.js
 |http://cdn.taboola.com/libtrc/*.js
