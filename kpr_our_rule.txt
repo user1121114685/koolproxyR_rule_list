@@ -13,15 +13,21 @@
 !  "|" 为管线符号，来表示地址的最前端或最末端
 !  "||" 为子域通配符，方便匹配主域名下的所有子域
 ! -------------------------------------------------------------------------------------------
-！新发现的两个广告cdn
-||https://manhuagui.com###rn_ad_native_ai63w
+! 新发现的广告cdn
 ||https://buyihao.com
-||d58.la
 ||https://d58.la
-||tiodata.com
 ||https://tiodata.com
-||https://cdn.jsdelivr.net/gh
-！手机优酷
+||https://cdn.jsdelivr.net
+||https://bihaipack.com
+||https://zpxw.vip/
+||https://jgshwx.com
+||https://ymaterials.cn
+||https://aisouk.cn/
+! 广告class或id
+*##[class*=rn_ad_native]
+*##[class*=miPYn_]
+*##[id*=rn_ad_native]
+! 手机优酷
 @@http://ykugc.cp31.ott.cibntv.net
 @@http://ykugc-vip.cp31.ott.cibntv.net
 ! 驱动之家
