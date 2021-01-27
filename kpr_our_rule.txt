@@ -427,7 +427,7 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 ||https://taboola.com/
 ||https://api.callget.cn/mediaAdLoad?tt=
 ||https://m.mydrivers.com##div[style="padding:0px 0px 0px 0px;text-align:center;"]
-! 爱鼠绘!只看小姐姐, [01.08.19 13:53]
+! 爱鼠绘!只看小姐姐, [01.08.19 13:53] z
 @@@@https://prod-u.ishuhui.com
 ! BT之家
 |https://btbtt.us$s@background:url('/view/image/QT_QT.jpg')@background@
